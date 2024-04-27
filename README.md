@@ -1,2 +1,2 @@
-# resume
-My Resume from Complete Web Development Course
+# resume (sample)
+My Resume after learning HTML from Complete Web Development Course!
